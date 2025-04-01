@@ -20,8 +20,8 @@ Copie a chave da API e o endpoint do serviço.
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/analisador-texto-azure.git
-cd analisador-texto-azure
+git clone https://github.com/Carlosyoot/Azure
+
 
 Instale dependências:
 
